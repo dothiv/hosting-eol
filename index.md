@@ -12,6 +12,11 @@ In short:
 
 If you need further assistance, please do not hesitiate to reach out to our CTO Markus [via email](mailto:m@tld.hiv) or [via Twitter](https://twitter.com/coderbyheart).
 
+## Timeline
+
+January 2020: Announcement of Sunsetting.
+December 31st 2020: Removal of Zones hosted on Google Cloud DNS
+
 ## Migrating to your Nameserver and webhosting services
 
 ### 1. Point the nameserver records of your HIV domain to your own service
@@ -26,30 +31,20 @@ Otherwise, go to your domain registrars control panel of your domain and enter t
 
 In the past we asked you to use GitHub Pages' IPs in your A records and `dothiv.github.io` for the `www` CNAME record:
 ```
-example.hiv. A 185.199.108.153  
-example.hiv. A 185.199.109.153  
-example.hiv. A 185.199.110.153  
-example.hiv. A 185.199.111.153  
-www.example.hiv. CNAME dothiv.github.io
+register.hiv. A 185.199.108.153  
+register.hiv. A 185.199.109.153  
+register.hiv. A 185.199.110.153  
+register.hiv. A 185.199.111.153  
+www,register.hiv. CNAME dothiv.github.io
 ```
 
-In case you want to keep using the GitHub pages services, please add these records to your domain using your DNS provides control panel (remember to replace `example.hiv` with your .hiv domain).
+In case you want to keep using the GitHub pages services, please add these records to your domain using your DNS provides control panel (remember to replace `register.hiv` with your .hiv domain).
 
 If you want to make modifications to this website, please contact us so we can transfer the ownership of the repository to your GitHub organization. For example, [this](https://github.com/dothiv/register.hiv) is the GitHub repository for [register.hiv](https://register.hiv/).
 
 Otherwise enter the records provided to you by your webhosting service.
 
-## Timeline
-
-### January 2020
-
-Announcement of Sunsetting.
-
-### December 31st 2020
-
-- Removal of Zones hosted on Google Cloud DNS (`ns-cloud1.googledomains.com`, `ns-cloud2.googledomains.com`, `ns-cloud3.googledomains.com`, `ns-cloud4.googledomains.com`)
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTE5MjE5MywyMzg5MDE2NTAsMTMwNT
+eyJoaXN0b3J5IjpbLTEwNzExNTkwOSwyMzg5MDE2NTAsMTMwNT
 A0NDkwNV19
 -->
