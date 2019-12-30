@@ -12,9 +12,11 @@ If you need further assistance, please do not hesitiate to reach out to our CTO 
 
 ### 1. Point the nameserver records of your HIV domain to your own service
 
+In the past we asked you to use CloudFlare's nameserves, e.g. 
+
 Go to the control panel of your domain and enter the hostnames provided by your nameserver service. Typically your registrar can provide them for you.
 
 ### 2.  Point the CNAME and A records to your own webhosting service
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1NDM5Mzc4LDEzMDUwNDQ5MDVdfQ==
+eyJoaXN0b3J5IjpbLTE3ODU3MTY0MjcsMTMwNTA0NDkwNV19
 -->
