@@ -10,7 +10,7 @@ In short:
 - use your own DNS service (e.g. [deSEC](https://desec.io/) or [CloudFlare](https://www.cloudflare.com/))
 - use your own webhosting service (e.g. [GitHub pages](https://pages.github.com/))
 
-If you need further assistance, please do not hesitiate to reach out to our CTO Markus [via email](mailto:m@tld.hiv) or [via Twitter](https://twitter.com/coderbyheart).
+If you need further assistance, please do not hesitate to reach out to our CTO Markus [via email](mailto:m@tld.hiv) or [via Twitter](https://twitter.com/coderbyheart).
 
 ## Timeline
 
@@ -48,6 +48,6 @@ If you want to make modifications to this website, please contact us so we can t
 Otherwise enter the records provided to you by your webhosting service.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTg1MzQ0OSwtMTA3MTE1OTA5LDIzOD
-kwMTY1MCwxMzA1MDQ0OTA1XX0=
+eyJoaXN0b3J5IjpbMjQ0OTY4NTE2LDE0OTU4NTM0NDksLTEwNz
+ExNTkwOSwyMzg5MDE2NTAsMTMwNTA0NDkwNV19
 -->
