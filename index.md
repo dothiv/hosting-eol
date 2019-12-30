@@ -14,8 +14,11 @@ If you need further assistance, please do not hesitiate to reach out to our CTO 
 
 ## Timeline
 
-January 2020: Announcement of Sunsetting.
-December 31st 2020: Removal of Zones hosted on Google Cloud DNS
+*January 2020*  
+Announcement of Sunsetting.
+
+*December 31st 2020*  
+Removal of Zones hosted on Google Cloud DNS
 
 ## Migrating to your Nameserver and webhosting services
 
@@ -45,6 +48,6 @@ If you want to make modifications to this website, please contact us so we can t
 Otherwise enter the records provided to you by your webhosting service.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzExNTkwOSwyMzg5MDE2NTAsMTMwNT
-A0NDkwNV19
+eyJoaXN0b3J5IjpbMTQ5NTg1MzQ0OSwtMTA3MTE1OTA5LDIzOD
+kwMTY1MCwxMzA1MDQ0OTA1XX0=
 -->
