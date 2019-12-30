@@ -18,7 +18,16 @@ Otherwise, go to your domain registrars control panel of your domain and enter t
 
 ### 2.  Point the CNAME and A records to your own webhosting service
 
-In the past we asked you to use GitHub's IPs in your A records and `dothiv.github.io` for the `www` CNAME record
+In the past we asked you to use GitHub's IPs in your A records and `dothiv.github.io` for the `www` CNAME record:
+```
+example.hiv. A 185.199.108.153  
+example.hiv. A 185.199.109.153  
+example.hiv. A 185.199.110.153  
+example.hiv. A 185.199.111.153  
+www.example.hiv. CNAME dothiv.github.io
+```
+
+In case you want to keep using the GitHub pages services, please add these records to your domain using your DNS provides control panel (remebe.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Njk0NjA2MSwxMzA1MDQ0OTA1XX0=
+eyJoaXN0b3J5IjpbLTIzNjMzODc3MSwxMzA1MDQ0OTA1XX0=
 -->
