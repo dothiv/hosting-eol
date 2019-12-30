@@ -42,8 +42,8 @@ Announcement of Sunsetting
 ### December 31st 2020
 
 - Removal of Zones hosted on Google Cloud DNS (`ns-cloud1.googledomains.com`, `ns-cloud2.googledomains.com`, `ns-cloud3.googledomains.com`, `ns-cloud4.googledomains.com`)
-- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzU3MTUwMywyMzg5MDE2NTAsMTMwNT
+eyJoaXN0b3J5IjpbMTg2ODE0MTQ0NCwyMzg5MDE2NTAsMTMwNT
 A0NDkwNV19
 -->
