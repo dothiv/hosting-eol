@@ -6,6 +6,10 @@ When we launched the digital red ribbon in 2014 a lot of our work went into maki
 
 Please review the migration instructions below carefully and migrate your .HIV as soon as possible.
 
+In short:
+- use your own DNS service
+- use your own webhosting service
+
 If you need further assistance, please do not hesitiate to reach out to our CTO Markus [via email](mailto:m@tld.hiv) or [via Twitter](https://twitter.com/coderbyheart).
 
 ## Migrating to your Nameserver and webhosting services
@@ -44,6 +48,6 @@ Announcement of Sunsetting.
 - Removal of Zones hosted on Google Cloud DNS (`ns-cloud1.googledomains.com`, `ns-cloud2.googledomains.com`, `ns-cloud3.googledomains.com`, `ns-cloud4.googledomains.com`)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTc1MjI5MywyMzg5MDE2NTAsMTMwNT
-A0NDkwNV19
+eyJoaXN0b3J5IjpbLTE4NDIwMTcyNDksMjM4OTAxNjUwLDEzMD
+UwNDQ5MDVdfQ==
 -->
