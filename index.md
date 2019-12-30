@@ -18,11 +18,13 @@ If you need further assistance, please do not hesitiate to reach out to our CTO 
 
 In the past we asked you to use CloudFlare's nameserves, e.g. `bill.ns.cloudflare.com`. In case you want to keep using [CloudFlare](https://www.cloudflare.com/) sign up for a free account there and add your .HIV domain to your account.
 
+If you need a free, secure and open-source DNS service, check out [deSEC](https://desec.io/).
+
 Otherwise, go to your domain registrars control panel of your domain and enter the hostnames provided by your nameserver service. Typically your registrar can provide them for you.
 
 ### 2.  Point the CNAME and A records to your own webhosting service
 
-In the past we asked you to use GitHub's IPs in your A records and `dothiv.github.io` for the `www` CNAME record:
+In the past we asked you to use GitHub Pages' IPs in your A records and `dothiv.github.io` for the `www` CNAME record:
 ```
 example.hiv. A 185.199.108.153  
 example.hiv. A 185.199.109.153  
@@ -48,6 +50,6 @@ Announcement of Sunsetting.
 - Removal of Zones hosted on Google Cloud DNS (`ns-cloud1.googledomains.com`, `ns-cloud2.googledomains.com`, `ns-cloud3.googledomains.com`, `ns-cloud4.googledomains.com`)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDA1NTkwNiwyMzg5MDE2NTAsMTMwNT
+eyJoaXN0b3J5IjpbMTQ5NTE5MjE5MywyMzg5MDE2NTAsMTMwNT
 A0NDkwNV19
 -->
