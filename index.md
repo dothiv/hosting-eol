@@ -8,13 +8,9 @@ Please review the migration instructions below carefully and migrate your .HIV a
 
 If you need further assistance, please do not hesitiate to reach out to our CTO Markus [via email](mailto:m@tld.hiv) or [via Twitter](https://twitter.com/coderbyheart).
 
-## Table of Contents
+## Is your .HIV domain affected
 
-- [I need help](./#i-need-help)
-
-## I need help
-
-
+If you 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTA0NDkwNV19
+eyJoaXN0b3J5IjpbMjMzNDQ3ODYsMTMwNTA0NDkwNV19
 -->
