@@ -10,10 +10,11 @@ If you need further assistance, please do not hesitiate to reach out to our CTO 
 
 ## Migrating to your Nameserver and webhosting services
 
-### 1. Change the Nameserver records for your HIV domain
+### 1. Point the nameserver records of your HIV domain to your own service
 
-Go to the control panel of your domain and enter the hostnames provided by your nameserver service. Typically your registrat
+Go to the control panel of your domain and enter the hostnames provided by your nameserver service. Typically your registrar can provide them for you.
 
+### 2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODY2MTYxMywxMzA1MDQ0OTA1XX0=
+eyJoaXN0b3J5IjpbLTEwMzU2NzgxMzAsMTMwNTA0NDkwNV19
 -->
