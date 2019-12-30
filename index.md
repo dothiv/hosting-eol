@@ -36,8 +36,8 @@ Otherwise enter the records provided to you by your webhosting service.
 ## Timeline
 
 January 2020: Announcement of Sunsetting
-December 31st 2020: 
+December 31st 2020: Shutdown of hosted nameserver service 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTY3ODI5OSwyMzg5MDE2NTAsMTMwNT
+eyJoaXN0b3J5IjpbMTQyOTk3MTM4NCwyMzg5MDE2NTAsMTMwNT
 A0NDkwNV19
 -->
