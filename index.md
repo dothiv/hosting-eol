@@ -12,7 +12,7 @@ Please review the migration instructions below carefully and migrate your .HIV a
 
 ## I need help
 
-If you need further assistance, please do not hesitiate to reach out to our CTO Markus [via email](mailto:m@tld.hiv) or [via Twitter](https://twitter.com/coderbyheart).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODU2NzE3N119
+eyJoaXN0b3J5IjpbLTYxNDA3MDQ4OV19
 -->
