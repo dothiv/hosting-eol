@@ -1,8 +1,8 @@
 # Sunsetting dotHIV Domain Hosting Services
 
-When we launched the digital red ribbon in 2014 a lot of our work went into making it as easy as possible for domain owners to show the [ribbon](https://github.com/dothiv/ribbon) on their domain. We did this through providing DNS and webhosting services through [Google Cloud](https://cloud.google.com/), [CloudFlare](https://www.cloudflare.com/) and [GitHub pages](https://pages.github.com/)—free of charge.
+When we launched the digital red ribbon in 2014 a lot of our work went into making it as easy as possible for domain owners to show [the ribbon](https://github.com/dothiv/ribbon) on their domain. We did this through providing DNS and webhosting services through [Google Cloud](https://cloud.google.com/), [CloudFlare](https://www.cloudflare.com/) and [GitHub pages](https://pages.github.com/)—free of charge.
 
-> In 2020 we are sunsetting this offering and we will end it's support on 31st of December 2020. 
+> In 2020 we are sunsetting this offering and we will end its support on 31st of December 2020. 
 
 Please review the migration instructions below carefully and migrate your .HIV as soon as possible.
 
@@ -44,6 +44,6 @@ Announcement of Sunsetting.
 - Removal of Zones hosted on Google Cloud DNS (`ns-cloud1.googledomains.com`, `ns-cloud2.googledomains.com`, `ns-cloud3.googledomains.com`, `ns-cloud4.googledomains.com`)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Mjg1Nzk5NCwyMzg5MDE2NTAsMTMwNT
+eyJoaXN0b3J5IjpbMTE0OTc1MjI5MywyMzg5MDE2NTAsMTMwNT
 A0NDkwNV19
 -->
