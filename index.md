@@ -32,6 +32,12 @@ In case you want to keep using the GitHub pages services, please add these recor
 If you want to make modifications to this website, please contact us so we can transfer the ownership of the repository to your GitHub organization. For example, [this](https://github.com/dothiv/register.hiv) is the GitHub repository for [register.hiv](https://register.hiv/).
 
 Otherwise enter the records provided to you by your webhosting service.
+
+## Timeline
+
+January 2020: Announcement of Sunsetting
+December 31st 2020: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4OTAxNjUwLDEzMDUwNDQ5MDVdfQ==
+eyJoaXN0b3J5IjpbMTM1OTY3ODI5OSwyMzg5MDE2NTAsMTMwNT
+A0NDkwNV19
 -->
