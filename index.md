@@ -6,6 +6,8 @@ When we launched the digital red ribbon in 2014 a lot of our work went into maki
 
 Please review the migration instructions below carefully and migrate your .HIV as soon as possible.
 
+If you need further assistance, please do not hesitiate to reach out to our CTO Markus [via email](mailto:m@tld.hiv) or [via Twitter](https://twitter.com/coderbyheart).
+
 ## Table of Contents
 
 - [I need help](./#i-need-help)
@@ -14,5 +16,5 @@ Please review the migration instructions below carefully and migrate your .HIV a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDA3MDQ4OV19
+eyJoaXN0b3J5IjpbMTMwNTA0NDkwNV19
 -->
