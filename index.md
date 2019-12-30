@@ -14,9 +14,11 @@ If you need further assistance, please do not hesitiate to reach out to our CTO 
 
 In the past we asked you to use CloudFlare's nameserves, e.g. `bill.ns.cloudflare.com`. In case you want to keep using [CloudFlare](https://www.cloudflare.com/) sign up for a free account there and add your .HIV domain to your account.
 
-Otherwise, o to the control panel of your domain and enter the hostnames provided by your nameserver service. Typically your registrar can provide them for you.
+Otherwise, go to your domain registrars control panel of your domain and enter the hostnames provided by your nameserver service. Typically your registrar can provide them for you.
 
 ### 2.  Point the CNAME and A records to your own webhosting service
+
+In the past we asked you to use GitHubs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjMzMDQ2OSwxMzA1MDQ0OTA1XX0=
+eyJoaXN0b3J5IjpbMjA4MTgzNzA2MSwxMzA1MDQ0OTA1XX0=
 -->
