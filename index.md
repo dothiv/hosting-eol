@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Sunsetting dotHIV Domain Hosting Services
 
-You can use the [editor on GitHub](https://github.com/dothiv/hosting-eol/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+When we launched the digital red ribbon in 2014 a lot of our work went into making it as easy as possible for domain owners to show the [ribbon](https://github.com/dothiv/ribbon) on their domain. We did this through providing DNS and webhosting services through [Google Cloud](https://cloud.google.com/), [CloudFlare](https://www.cloudflare.com/) and [GitHub pages](https://pages.github.com/)—free of charge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> :warning: In 2020 we are sunsetting this offering and we will end it's support on 31st of December 2020. 
 
-### Markdown
+Please review the migration instructions below carefully and migrate your .HIV as soon as possible.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Table of Contents
 
-```markdown
-Syntax highlighted code block
+- [I need help](./#ineedhelp)
 
-# Header 1
-## Header 2
-### Header 3
+## I need help
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dothiv/hosting-eol/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you need further assistance, please do not hesitiate to reach out to our CTO Markus [via email](mailto:m@tld.hiv) or [via Twitter](https://twitter.com/coderbyheart).
