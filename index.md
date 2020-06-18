@@ -38,7 +38,7 @@ register.hiv. A 185.199.108.153
 register.hiv. A 185.199.109.153  
 register.hiv. A 185.199.110.153  
 register.hiv. A 185.199.111.153  
-www,register.hiv. CNAME dothiv.github.io
+www.register.hiv. CNAME dothiv.github.io
 ```
 
 In case you want to keep using the GitHub pages services, please add these records to your domain using your DNS provides control panel (remember to replace `register.hiv` with your .hiv domain).
